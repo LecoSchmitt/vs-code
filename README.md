@@ -1,4 +1,4 @@
-{
+<code>{
     "explorer.compactFolders": false,
     "extensions.ignoreRecommendations": true,
     "code-runner.runInTerminal": true,
@@ -10,4 +10,4 @@
     "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
     "workbench.iconTheme": "material-icon-theme",
     "python.defaultInterpreterPath": "python"
-} 
+}</code>
